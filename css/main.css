@@ -1,0 +1,17 @@
+.landing-container{
+    padding: 120px 0;
+}
+
+.landing-container form{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+body, html{
+    height: 100%;
+}
+
+body {
+  background: linear-gradient(rgba(7,119,75,0.6), rgba(7,16,119,0.6)), url('../images/wall.jpg') center no-repeat;
+  background-size: cover;
+}
